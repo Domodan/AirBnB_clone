@@ -77,3 +77,10 @@ Command | Description
 `<class>.destroy(<id>)` | Destroys an instance based on its id
 
 ---
+
+## Tests
+
+All codes are tested with the unittest module. The tests are in the`test_models` folder.
+
+## Authors
+* Daniel Ongom    - [Domodan](https://github.com/Domodan)
